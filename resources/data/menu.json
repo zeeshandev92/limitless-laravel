@@ -1,0 +1,169 @@
+{
+    "menu": [
+        {
+            "menuHeader": "Main"
+        },
+        {
+            "url": "dashboard",
+            "name": "Dashboards",
+            "icon": "ph-house",
+            "slug": "dashboard"
+        },
+        {
+            "name": "Shop",
+            "icon": "ph-storefront",
+            "slug": "Shop",
+            "submenu": [
+                {
+                    "url": "active",
+                    "name": "Active",
+                    "slug": "active"
+                },
+                {
+                    "url": "abandoned",
+                    "name": "Abandoned",
+                    "slug": "abandoned"
+                }
+            ]
+        },
+        {
+            "url": "clients",
+            "name": "Subscriptions",
+            "icon": "ph-currency-circle-dollar",
+            "slug": "clients"
+        },
+        {
+            "url": "services",
+            "name": "Plans",
+            "icon": "ph-clipboard-text",
+            "slug": "services"
+        },
+        {
+            "url": "services",
+            "name": "Survey",
+            "icon": "ph-list-checks",
+            "slug": "services"
+        },
+        {
+            "url": "trials",
+            "name": "Trials",
+            "icon": "ph-clock-countdown",
+            "slug": "trials"
+        },
+        {
+            "url": "trials",
+            "name": "Configurations",
+            "icon": "ph-gear-fine",
+            "slug": "trials"
+        },
+        {
+            "url": "trials",
+            "name": "Integrations",
+            "icon": "ph-bounding-box",
+            "slug": "trials"
+        },
+        {
+            "url": "trials",
+            "name": "Calendly",
+            "icon": "ph-calendar-check",
+            "slug": "trials"
+        },
+        {
+            "url": "trials",
+            "name": "Staff",
+            "icon": "ph-users-three",
+            "slug": "trials"
+        },
+        {
+            "url": "trials",
+            "name": "Gallery",
+            "icon": "ph-images-square",
+            "slug": "trials"
+        },
+        {
+            "name": "Roles",
+            "icon": "ph-user-focus",
+            "slug": "resume",
+            "submenu": [
+                {
+                    "url": "resume/education",
+                    "name": "Admin",
+                    "slug": "education"
+                },
+                {
+                    "url": "resume/experiences",
+                    "name": "Shop",
+                    "slug": "experiences"
+                }
+            ]
+        },
+        {
+            "name": "Permission",
+            "icon": "ph-lock",
+            "slug": "resume",
+            "submenu": [
+                {
+                    "url": "resume/education",
+                    "name": "Admin",
+                    "slug": "education"
+                },
+                {
+                    "url": "resume/experiences",
+                    "name": "Shop",
+                    "slug": "experiences"
+                }
+            ]
+        },
+        {
+            "name": "Account",
+            "icon": "ph-user-list",
+            "slug": "resume",
+            "submenu": [
+                {
+                    "url": "resume/education",
+                    "name": "Web",
+                    "slug": "education"
+                },
+                {
+                    "url": "resume/experiences",
+                    "name": "App",
+                    "slug": "experiences"
+                }
+            ]
+        },
+        {
+            "name": "Catalog",
+            "icon": "ph-notebook",
+            "slug": "resume",
+            "submenu": [
+                {
+                    "url": "resume/education",
+                    "name": "Integration",
+                    "slug": "education"
+                },
+                {
+                    "url": "resume/experiences",
+                    "name": "Icons",
+                    "slug": "experiences"
+                }
+            ]
+        },
+        {
+            "name": "Settings",
+            "icon": "ph-gear-six",
+            "slug": "resume",
+            "submenu": [
+                {
+                    "url": "resume/education",
+                    "name": "Education",
+                    "slug": "education"
+                },
+                {
+                    "url": "resume/experiences",
+                    "name": "Experience",
+                    "slug": "experiences"
+                }
+            ]
+        }
+    ]
+}
